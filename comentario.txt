@@ -1,0 +1,3 @@
+Ejecute git status, cree los archivos  pero no son seguidos por git 
+modifique los archivos pero no son seguiidos por git todavia 
+modicifque el archivo datos pero no los sigue git 
